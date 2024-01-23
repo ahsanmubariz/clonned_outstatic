@@ -1,6 +1,6 @@
 {
-  "commit": "a3a828549eea742eec3cda21d1fd08d57ef00e7c",
-  "generated": "Tue, 23 Jan 2024 09:28:17 GMT",
+  "commit": "d93f17874c6501ec14afcf0d300e23689b48f325",
+  "generated": "2024-01-23T09:54:34.889Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "3a18308aba3d165b85c1b63942db21eff8803836",
-        "hash": "1682546766",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/_905810ad-438b-4964-a3a3-38a6c98a378d-c1Nz.jpeg",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "tags": "",
-      "title": "Resep Mie Pangsit Chinese Style"
     },
     {
       "__outstatic": {
@@ -137,6 +119,25 @@
         }
       ],
       "title": "Resep Bakmi Jawa"
+    },
+    {
+      "__outstatic": {
+        "commit": "d93f17874c6501ec14afcf0d300e23689b48f325",
+        "hash": "3503497885",
+        "path": "outstatic/content/posts/mie-pangsit-chinese.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/_905810ad-438b-4964-a3a3-38a6c98a378d-c1Nz.jpeg",
+      "description": "Mie pangsit chinese style",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "mie-pangsit-chinese",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Resep Mie Pangsit Chinese Style"
     }
   ]
 }

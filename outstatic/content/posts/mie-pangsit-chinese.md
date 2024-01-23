@@ -3,10 +3,10 @@ title: 'Resep Mie Pangsit Chinese Style'
 status: 'published'
 author:
   name: 'Andre Vitorio'
-slug: 'nothing-wrong'
-description: 'One more day, one more joy. I feel blessed.'
+slug: 'mie-pangsit-chinese'
+description: 'Mie pangsit chinese style'
 coverImage: '/images/_905810ad-438b-4964-a3a3-38a6c98a378d-c1Nz.jpeg'
-tags: ''
+tags: []
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 
