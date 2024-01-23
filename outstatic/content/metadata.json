@@ -1,6 +1,6 @@
 {
   "commit": "dadb21a95abcd89d3085daf23113949bc4391396",
-  "generated": "2024-01-23T09:01:24.303Z",
+  "generated": "2024-01-23T09:01:45.784Z",
   "metadata": [
     {
       "__outstatic": {
@@ -111,17 +111,17 @@
     {
       "__outstatic": {
         "commit": "dadb21a95abcd89d3085daf23113949bc4391396",
-        "hash": "2231321794",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
+        "hash": "3475377067",
+        "path": "outstatic/content/posts/resep-bakmi-jawa.md"
       },
       "author": {
         "name": "Andre Vitorio"
       },
       "collection": "posts",
-      "coverImage": "/images/_36d5bf73-d2bc-4255-8881-a5643649078c-MxOT.jpeg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "coverImage": "/images/_36d5bf73-d2bc-4255-8881-a5643649078c-A1OD.jpeg",
+      "description": "Resep Bakmi Ala Jawa",
       "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
+      "slug": "resep-bakmi-jawa",
       "status": "published",
       "tags": [
         {
