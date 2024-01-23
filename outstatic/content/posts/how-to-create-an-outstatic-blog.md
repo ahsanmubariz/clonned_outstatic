@@ -1,23 +1,40 @@
 ---
-title: 'Learn how to create your blog with Outstatic'
+title: 'Resep Bakmi Jawa'
 status: 'published'
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.'
-coverImage: '/images/jupiter-spaceship.png'
-publishedAt: '2022-07-14T02:34:02.322Z'
-tags:
-  [
-    { 'label': 'NextJs', value: 'nextJs' },
-    { 'label': 'GitHub', value: 'gitHub' },
-    { 'label': 'Outstatic', value: 'outstatic' }
-  ]
+coverImage: '/images/_36d5bf73-d2bc-4255-8881-a5643649078c-MxOT.jpeg'
+tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
 author:
-  name: Andre Vitorio
+  name: 'Andre Vitorio'
+slug: 'how-to-create-an-outstatic-blog'
+publishedAt: '2022-07-14T02:34:02.322Z'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+![Bakmi](https://www.bing.com/th?id=OSK.HEROJZqjR5Ola_Nulc3Ou7zs4yEGcShV1RwgxIQ9W3GXXpQ&pid=cdx&w=320&h=189&c=7)
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+- Bahan-bahan:
+  - 500 gram mie kuning basah
+  - 2 butir telur, kocok lepas
+  - 100 gram daging ayam, rebus dan suwir-suwir
+  - 100 gram kol, iris tipis
+  - 100 gram sawi hijau, potong-potong
+  - 50 gram bakso sapi, iris tipis
+  - 2 batang daun bawang, iris tipis
+  - 2 batang seledri, iris tipis
+  - 3 sdm kecap manis
+  - 2 sdm minyak goreng
+  - Garam, gula, dan merica secukupnya
+- Bumbu halus:
+  - 4 siung bawang putih
+  - 6 siung bawang merah
+  - 3 butir kemiri, sangrai
+  - 5 buah cabai rawit merah
+- Cara membuat:
+  - Panaskan minyak goreng dalam wajan, tumis bumbu halus sampai harum dan matang.
+  - Masukkan telur, orak-arik sampai berbutir.
+  - Masukkan daging ayam, kol, sawi hijau, bakso, daun bawang, dan seledri. Aduk rata dan masak sampai sayuran layu.
+  - Tambahkan kecap manis, garam, gula, dan merica. Aduk rata dan koreksi rasa.
+  - Masukkan mie kuning basah, aduk rata sampai bumbu meresap dan mie matang.
+  - Angkat dan sajikan dengan bawang goreng dan acar mentimun.
 
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Selamat mencoba! 😊
