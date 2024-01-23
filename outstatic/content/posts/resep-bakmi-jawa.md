@@ -3,7 +3,7 @@ title: 'Resep Bakmi Jawa'
 status: 'published'
 description: 'Resep Bakmi Ala Jawa'
 coverImage: '/images/_36d5bf73-d2bc-4255-8881-a5643649078c-A1OD.jpeg'
-tags: [{"label":"NextJs","value":"nextJs"},{"label":"GitHub","value":"gitHub"},{"label":"Outstatic","value":"outstatic"}]
+tags: []
 author:
   name: 'Andre Vitorio'
 slug: 'resep-bakmi-jawa'

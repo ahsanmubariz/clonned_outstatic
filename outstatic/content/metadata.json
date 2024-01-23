@@ -1,6 +1,6 @@
 {
-  "commit": "d93f17874c6501ec14afcf0d300e23689b48f325",
-  "generated": "2024-01-23T09:54:34.889Z",
+  "commit": "4b4f00b4289fc901739ffee45f312aac6655003d",
+  "generated": "2024-01-23T09:54:59.240Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,37 +91,6 @@
     },
     {
       "__outstatic": {
-        "commit": "ccfd018a0f6a238ceb812a24b346d3ff7010987e",
-        "hash": "3475377067",
-        "path": "outstatic/content/posts/resep-bakmi-jawa.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/_36d5bf73-d2bc-4255-8881-a5643649078c-A1OD.jpeg",
-      "description": "Resep Bakmi Ala Jawa",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "resep-bakmi-jawa",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Resep Bakmi Jawa"
-    },
-    {
-      "__outstatic": {
         "commit": "d93f17874c6501ec14afcf0d300e23689b48f325",
         "hash": "3503497885",
         "path": "outstatic/content/posts/mie-pangsit-chinese.md"
@@ -138,6 +107,25 @@
       "tags": [
       ],
       "title": "Resep Mie Pangsit Chinese Style"
+    },
+    {
+      "__outstatic": {
+        "commit": "4b4f00b4289fc901739ffee45f312aac6655003d",
+        "hash": "3355058358",
+        "path": "outstatic/content/posts/resep-bakmi-jawa.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/_36d5bf73-d2bc-4255-8881-a5643649078c-A1OD.jpeg",
+      "description": "Resep Bakmi Ala Jawa",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "resep-bakmi-jawa",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Resep Bakmi Jawa"
     }
   ]
 }
