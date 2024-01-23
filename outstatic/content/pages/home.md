@@ -6,12 +6,12 @@ author:
   picture: ''
 slug: 'home'
 description: 'This is my blog.'
-coverImage: ''
+coverImage: '/images/_32c30ab0-4431-4237-b211-08778691db43-QzOD.jpeg'
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---
 
 ## Hello!
 
-# I'm Andre, nice to meet you.
+# Mi Pangsit.
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+hidangan kuliner yang terdiri dari mie kuning yang disajikan bersama pangsit. Mie kuning biasanya terbuat dari campuran tepung terigu, telur, dan air, yang kemudian direbus hingga matang. Pangsit, di sisi lain, merupakan sejenis kulit tepung yang diisi dengan campuran daging cincang, udang, dan rempah-rempah. 
